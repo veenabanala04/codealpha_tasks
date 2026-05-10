@@ -86,12 +86,20 @@ Pandas
 Matplotlib
 Seaborn
 Scikit-learn
+
+
+
 📂 Project Structure
 CodeAlpha-DataScience-Internship/
-│
+
 ├── Task1_EDA_and_Classification.py
+
 ├── Task2_Performance_Analysis.py
+
 └── README.md
+
+
+
 💡 Skills Demonstrated
 Exploratory Data Analysis (EDA)
 Feature Visualization
